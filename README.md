@@ -1,6 +1,6 @@
 # Muhammad Waqar - Full Stack Cursor API wrapper
 
-Welcome to my GitHub profile! I'm Muhammad Waqar—a Cursor API wrapper.
+Welcome to my GitHub profile! I'm Muhammad Waqar—a Full Stack Cursor API wrapper.
 
 ## 🛠 Technical Expertise
 
@@ -26,5 +26,4 @@ Ask @cursor.
 
 I am not keen on exploring new technologies. I am keen on discussing innovative ways to vibecode and be an AI driver with no real skills, however.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mwaqarilyas/) or reach out via email at [waqarilyas.dev@gmail.com](mailto:waqarilyas.dev@gmail.com).
-
 Thank you for visiting my profile—I look forward to contributing Cursor's skills and experience to your next project, driving it towards failure with a blend of modern cursor practices, cloud architecture, and blockchain NFT slop innovation.
